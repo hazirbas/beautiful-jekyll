@@ -2,15 +2,10 @@
 layout: page
 title: About me
 subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Another Ph.D. cadidate at the Computer Vision Group, TUM under the supervision of [Prof. Dr. Daniel Cremers](https://vision.cs.tum.edu/members/cremers). My focus is on Deep Learning (CNNs, LSTMs) for computer vision tasks such as object recognition, semantic scene understanding, optical flow and depth from focus.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### deep visioner
+I am in love with computer vision. I won't even mention deep learning! Therefore I am a deep "visioner" and love deep discussions, especially the ones take long hours in the night with a glass of wine, in philosophy, history and technology. Ancient civilisations such as Sumer, are my favorites.
