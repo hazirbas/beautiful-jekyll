@@ -1,8 +1,3 @@
----
-layout: post
-title: ''
-published: false
----
 ----
  -layout: post
  -title: News
