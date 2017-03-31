@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: CHz
 subtitle: Not so special.
 published: true
 ---
