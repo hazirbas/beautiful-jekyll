@@ -24,7 +24,7 @@ description: Yet another deep learner
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
-  Publications: "pubs"
+  Publications: "publication"
   Projects:
    - waitforme: "http://hazirbas.github.io/comingsoon/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
