@@ -1,8 +1,8 @@
 ---
 layout: page
-title: DDFF 12-Scene Benchmark
-subtitle: Deep Depth From Focus
+title: DDFF 12-Scene
+subtitle: 4+1D Lightfield-Depth Benchmark
 published: true
 ---
 
-Stay tuned.
+Stay Tuned.
