@@ -4,11 +4,12 @@ title: Deep Depth From Focus
 subtitle: Caner Hazirbas, Laura Leal-Taixé, Daniel Cremers
 show-avatar: false
 social-share: true
+share-img: https://hazirbas.github.io/img/ddffteaser.png
 published: true
 ---
 
 ![ddffnet.png]({{site.baseurl}}/img/ddffnet.png){: .center-image }
-<b>
+<br>
 
 <div style="text-align: justify">
 Depth from Focus (DFF) is one of the classical ill-posed inverse problems in computer vision. 
@@ -20,7 +21,6 @@ Compared to existing benchmarks our dataset is 30 times larger, enabling the use
 We compare our results with state-of-the-art DFF methods and we also analyze the effect of several key deep architectural components. 
 These experiments show that DDFFNet achieves state-of-the-art performance in all scenes, reducing depth error by more than 70% wrt classic DFF methods.
 </div>
-<b>
 
 <div style="text-align: center">
 <a href="https://arxiv.org/abs/1704.01085" target="_blank">
@@ -30,7 +30,6 @@ These experiments show that DDFFNet achieves state-of-the-art performance in all
 <button class="button buttonpaper"> PDF </button>
 </a>
 </div>
-<b>
 
 ### Bibtex
 ```
@@ -42,7 +41,6 @@ These experiments show that DDFFNet achieves state-of-the-art performance in all
   booktitle = {Arxiv preprint arXiv:1704.01085},
 }
 ```
-<b>
 
 ### Share on
 {% include social-share.html %}
