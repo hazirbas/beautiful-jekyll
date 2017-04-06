@@ -6,9 +6,7 @@ show-avatar: false
 published: true
 ---
 
-<div style="text-align: justify">
-<img src="https://hazirbas.github.io/img/ddffnet.png">
-</div>
++![ddffnet.png]({{site.baseurl}}/img/ddffnet.png){: .center-image }
 
 <div style="text-align: justify">
 Depth from Focus (DFF) is one of the classical ill-posed inverse problems in computer vision. 
