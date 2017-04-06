@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Deep Depth From Focus
 subtitle: Caner Hazirbas, Laura Leal-Taixé, Daniel Cremers
 show-avatar: false
@@ -30,3 +30,5 @@ These experiments show that DDFFNet achieves state-of-the-art performance in all
   booktitle = {Arxiv preprint arXiv:1704.01085},
 }
 ```
+### Share on
+{% include social-share.html %}
