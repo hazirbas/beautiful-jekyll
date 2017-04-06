@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Deep Depth From Focus
 subtitle: Caner Hazirbas, Laura Leal-Taixé, Daniel Cremers
 show-avatar: false
