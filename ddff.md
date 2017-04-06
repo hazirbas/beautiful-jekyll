@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: minimal
 title: Deep Depth From Focus
 show-avatar: false
 published: true
 ---
-![ddffnet.png]({{site.baseurl}}/img/ddffnet.png)
+![ddffnet.png]({{site.baseurl}}/img/ddffnet.png){: .center-image }
 
 <p class="justify">
 Depth from Focus (DFF) is one of the classical ill-posed inverse problems in computer vision. 
