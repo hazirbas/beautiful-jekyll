@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: default
 title: Deep Depth From Focus
 show-avatar: false
 published: true
 ---
-## Deep Depth From Focus
 
 ![ddffnet.png]({{site.baseurl}}/img/ddffnet.png){: .center-image }
 
