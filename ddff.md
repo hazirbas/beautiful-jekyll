@@ -4,9 +4,11 @@ title: Deep Depth From Focus
 show-avatar: false
 published: true
 ---
+## Deep Depth From Focus
+
 ![ddffnet.png]({{site.baseurl}}/img/ddffnet.png){: .center-image }
 
-<p class="justify">
+<div style="text-align: justify">
 Depth from Focus (DFF) is one of the classical ill-posed inverse problems in computer vision. 
 Most approaches recover the depth at each pixel based on the focal setting which exhibits maximal sharpness. 
 Yet, it is not obvious how to reliably estimate the sharpness level, particularly in low-textured areas. 
@@ -15,4 +17,4 @@ Towards this goal, we create a novel real-scene indoor benchmark composed of 4D 
 Compared to existing benchmarks our dataset is 30 times larger, enabling the use of machine learning for this inverse problem. 
 We compare our results with state-of-the-art DFF methods and we also analyze the effect of several key deep architectural components. 
 These experiments show that DDFFNet achieves state-of-the-art performance in all scenes, reducing depth error by more than 70% wrt classic DFF methods.
-</p>
+</div>
