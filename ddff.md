@@ -1,13 +1,10 @@
 ---
-layout: default
+layout: page
 title: Deep Depth From Focus
+subtitle: Caner Hazirbas, Laura Leal-Taixé, Daniel Cremers
 show-avatar: false
 published: true
 ---
-
-<center><font size="7"><b>Deep Depth From Focus</b></font></center>
-<hr  width="80%" size="1"/>
-<center><font size="5">Caner Hazirbas, Laura Leal-Taixé, Daniel Cremers</font></center>
 
 <div style="text-align: justify">
 <img src="https://hazirbas.github.io/img/ddffnet.png">
