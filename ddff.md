@@ -20,6 +20,12 @@ We compare our results with state-of-the-art DFF methods and we also analyze the
 These experiments show that DDFFNet achieves state-of-the-art performance in all scenes, reducing depth error by more than 70% wrt classic DFF methods.
 </div>
 
+<div style="text-align: justify">
+<a href="https://arxiv.org/pdf/1704.01085" target="_blank">
+<button class="button buttonpaper">Paper</button>
+</a>
+</div>
+
 ### Bibtex
 ```
 @inproceedings{hazirbas17ddff,
