@@ -26,6 +26,7 @@ navbar-links:
   #About Me: "aboutme"
   Publications: "publication"
   Projects:
+   - ddff: "http://hazirbas.github.io/ddff/"
    - ddff12scene: "http://hazirbas.github.io/ddff12scene/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
    # - GitHub Pages: "https://pages.github.com/"
