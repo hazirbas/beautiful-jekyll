@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 title: Deep Depth From Focus
 show-avatar: false
 published: true
