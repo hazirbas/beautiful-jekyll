@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: minimal
 title: Deep Depth From Focus
 subtitle: Caner Hazirbas, Laura Leal-Taixé, Daniel Cremers
 show-avatar: false
 social-share: true
-published: false
+published: true
 ---
 
 ![ddffnet.png]({{site.baseurl}}/img/ddffnet.png){: .center-image }
