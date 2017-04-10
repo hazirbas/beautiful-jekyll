@@ -26,11 +26,12 @@ navbar-links:
   #About Me: "aboutme"
   Publications: "publication"
   Projects:
-   - ddff: "http://hazirbas.github.io/ddff/"
+   - ddff: "http://hazirbas.github.io/projects/ddff/"
    - ddff12scene: "http://hazirbas.github.io/ddff12scene/"
+   - fusenet: "http://hazirbas.github.io/projects/fusenet/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
    # - GitHub Pages: "https://pages.github.com/"
-  TUM Vision: "https://vision.cs.tum.edu/members/hazirbas"
+  # TUM Vision: "https://vision.cs.tum.edu/members/hazirbas"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

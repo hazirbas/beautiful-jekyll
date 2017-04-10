@@ -27,18 +27,18 @@ These experiments show that DDFFNet achieves state-of-the-art performance in all
 <button class="button buttonpaper"> arXiv </button>
 </a>
 <a href="https://arxiv.org/pdf/1704.01085" target="_blank">
-<button class="button buttonpaper"> PDF </button>
+<button class="button buttonpaper"> pdf </button>
 </a>
 </div>
 
 ### Bibtex
 ```
 @inproceedings{hazirbas17ddff,
-  author    = {C. Hazirbas and L. Leal-Taixé and D. Cremers},
   title     = {Deep Depth From Focus},
+  author    = {C. Hazirbas and L. Leal-Taixé and D. Cremers},
+  booktitle = {Arxiv preprint arXiv:1704.01085},
   month     = {April},
   year      = {2017},
-  booktitle = {Arxiv preprint arXiv:1704.01085},
 }
 ```
 
