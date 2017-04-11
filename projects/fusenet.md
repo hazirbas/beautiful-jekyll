@@ -33,7 +33,6 @@ In this paper we address the problem of semantic labeling of indoor scenes on RG
  month     = {November},
  year      = {2016},
 }
-
 ```
 
 ### Share on
