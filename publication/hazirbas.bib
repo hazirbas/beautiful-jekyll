@@ -13,6 +13,16 @@
  abstract  = {Depth from Focus (DFF) is one of the classical ill-posed inverse problems in computer vision. Most approaches recover the depth at each pixel based on the focal setting which exhibits maximal sharpness. Yet, it is not obvious how to reliably estimate the sharpness level, particularly in low-textured areas.  In this paper, we propose `Deep Depth From Focus (DDFF)' as the first end-to-end learning approach to this problem. Towards this goal, we create a novel real-scene indoor benchmark composed of 4D light-field images obtained from a plenoptic camera and  ground truth depth obtained from a registered RGB-D sensor. Compared to existing benchmarks our dataset is 30 times larger, enabling the use of machine learning for this inverse problem. We compare our results with state-of-the-art DFF methods and we also analyze the effect of several key deep architectural components.  These experiments show that DDFFNet achieves state-of-the-art performance in all scenes, reducing depth error by more than 70% wrt classic DFF methods.},
 }
 
+@InProceedings{meinhardt17learning,
+ author    = {T. Meinhardt and M. Möller and C. Hazirbas and D. Cremers},
+ title     = {\textbf{Learning Proximal Operators: Using Denoising Networks for Regularizing Inverse Imaging Problems}},
+ month     = {April},
+ year      = {2017},
+ booktitle = arxiv,
+ eprint    = {1704.03488},
+ abstract  = {While variational methods have been among the most powerful tools for solving linear inverse problems in imaging, deep (convolutional) neural networks have recently taken the lead in many challenging benchmarks. A remaining drawback of deep learning approaches is that they require an expensive retraining whenever the specific problem, the noise level, noise type, or desired measure of fidelity changes. On the contrary, variational methods have a plug-and-play nature as they usually consist of separate data fidelity and regularization terms. In this paper we study the possibility of replacing the proximal operator of the regularization used in many convex energy minimization algorithms by a denoising neural network. The latter therefore serves as an implicit natural image prior, while the data term can still be chosen arbitrarily. Using a fixed denoising neural network in exemplary problems of image deconvolution with different blur kernels and image demosaicking, we obtain state-of-the-art results. Additionally, we discuss novel results on the analysis of possible convex optimization algorithms to incorporate the network into, as well as the choices of algorithm parameters and their relation to the noise level the neural network is trained on.},
+}
+
 @InProceedings{walch16spatialstms,
  author    = {F. Walch and C. Hazirbas and L. Leal-Taixé and T. Sattler and S. Hilsenbeck and D. Cremers},
  title     = {\textbf{Image-based localization using LSTMs for structured feature correlation}},
@@ -82,7 +92,7 @@
   author   = {Caner Hazirbas},
   title    = {\textbf{Feature Selection and Learning for Semantic Segmentation}},
   school   = {Technical University Munich},
-  address  = {Munich, Germany},
+  address  = {Germany},
   onth    = {June},
   year     = {2014},
   abstract = {This work presents a comprehensive study on feature selection and learning for semantic segmentation. Various types of features, different learning algorithms in conjunction with minimizing a variational formulation, are discussed in order to obtain the best segmentation of the scene with minimal redundancy in the feature set. The features are scored in terms of relevance and redundancy. A clever feature selection reduces not only the redundancy but also the computational cost of object detection. Additionally different learning algorithms are studied and the most suitable multi-class object classifier is trained with the selected subset of features for detection based unary potential computation. In order to obtain consistent segmentation results we minimize a variational formulation of the multi-labelling problem by means of first order primal-dual optimization.\\
