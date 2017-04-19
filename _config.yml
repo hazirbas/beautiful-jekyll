@@ -27,8 +27,9 @@ navbar-links:
   Publications: "publication"
   Projects:
    - ddff: "http://hazirbas.github.io/projects/ddff/"
-   - ddff12scene: "http://hazirbas.github.io/ddff12scene/"
    - fusenet: "http://hazirbas.github.io/projects/fusenet/"
+  Datasets:
+   - ddff12scene: "http://hazirbas.github.io/ddff12scene/"
    # - Learn markdown: "http://www.markdowntutorial.com/"
    # - GitHub Pages: "https://pages.github.com/"
   # TUM Vision: "https://vision.cs.tum.edu/members/hazirbas"
