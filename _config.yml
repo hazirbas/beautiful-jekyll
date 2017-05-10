@@ -25,7 +25,7 @@ description: Yet another deep learner
 navbar-links:
   #About Me: "aboutme"
   Blog: "blog"
-  Publications: "publication"
+  Publications: "publications"
   Projects:
    - ddff: "http://hazirbas.github.io/projects/ddff/"
    - fusenet: "http://hazirbas.github.io/projects/fusenet/"
