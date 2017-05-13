@@ -24,16 +24,13 @@ description: Yet another deep learner
 # List of links in the navigation bar
 navbar-links:
   #About Me: "aboutme"
-  Blog: "blog"
   Publications: "publications"
   Projects:
    - ddff: "http://hazirbas.github.io/projects/ddff/"
    - fusenet: "http://hazirbas.github.io/projects/fusenet/"
   Datasets:
    - ddff12scene: "http://hazirbas.github.io/ddff12scene/"
-   # - Learn markdown: "http://www.markdowntutorial.com/"
-   # - GitHub Pages: "https://pages.github.com/"
-  # TUM Vision: "https://vision.cs.tum.edu/members/hazirbas"
+  Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -50,43 +47,43 @@ avatar: "/img/avatar.png"
 author:
   name: Caner Hazirbas
   email: "hazirbas@cs.tum.edu"
-  facebook: canerhazirbas  # eg. daattali
-  github: hazirbas    # eg. daattali
-  twitter: CHz89   # eg. daattali
-  # reddit: yourname    # eg. daattali
-  google-plus: +CanerHazırbaş   # eg. +DeanAttali or 109424658772469020925
-  linkedin: canerhazirbas  # eg. daattali
-  # xing: yourname      # eg. daattali
-  # stackoverflow: yourlink  # eg. "3943160/daattali"
-  # snapchat: yourname  # eg. daattali
-  # instagram: yourname # eg. daattali
-  youtube: channel/UCDdqrM_Djhx8u1jd2q5Rklw   # eg. user/daattali or channel/daattali
-  # spotify: yourname   # eg. daattali
-  # telephone: +4917643620271   # eg. +14159998888
+  telephone: +4917643620271
+  linkedin: canerhazirbas
+  github: hazirbas
+  youtube: channel/UCDdqrM_Djhx8u1jd2q5Rklw
+  google-plus: +CanerHazırbaş
+  facebook: canerhazirbas
+  twitter: CHz89 
+  # reddit: yourname
+  # xing: yourname
+  # stackoverflow: yourlink
+  # snapchat: yourname
+  # instagram: yourname
+  # spotify: yourname
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
   email: true
-  twitter: true
-  google-plus: true
-  github: true
-  reddit: false
+  telephone: true
   linkedin: true
+  github: true
+  youtube: true
+  google-plus: true
+  facebook: true
+  twitter: true
+  reddit: false
   xing: false
   stackoverflow: false
   snapchat: false
   instagram: false
-  youtube: true
   spotify: false
-  telephone: false
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
