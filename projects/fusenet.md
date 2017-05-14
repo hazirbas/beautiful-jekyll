@@ -4,11 +4,11 @@ title: FuseNet
 subtitle: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture <br><br> Caner Hazirbas, Lingni Ma, Csaba Domokos, Daniel Cremers
 show-avatar: false
 social-share: true
-share-img: https://hazirbas.github.io/publication/hazirbas16fusenet.png
+share-img: https://hazirbas.github.io/publications/hazirbas16fusenet.png
 published: true
 ---
 
-![fusenet.png]({{site.baseurl}}/publication/hazirbas16fusenet.png){: .center-image }
+![fusenet.png]({{site.baseurl}}/publications/hazirbas16fusenet.png){: .center-image }
 <br>
 
 <div style="text-align: justify">
