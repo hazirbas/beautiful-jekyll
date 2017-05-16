@@ -1,6 +1,5 @@
 ---
 layout: page
-subtitle: Talks and Courses
 published: true
 ---
 
