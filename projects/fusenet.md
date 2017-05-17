@@ -8,7 +8,7 @@ share-img: https://hazirbas.github.io/publications/hazirbas16fusenet.png
 published: true
 ---
 
-![fusenet.png]({{site.baseurl}}/publications/hazirbas16fusenet.png){: .center-image }
+![FuseNet]({{site.baseurl}}/publications/hazirbas16fusenet.png){: .center-image }
 <br>
 
 <div style="text-align: justify">

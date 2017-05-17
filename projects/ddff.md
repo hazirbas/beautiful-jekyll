@@ -8,7 +8,7 @@ share-img: https://hazirbas.github.io/img/ddffteaser.png
 published: true
 ---
 
-![ddffnet.png]({{site.baseurl}}/img/ddffnet.png){: .center-image }
+![DDFFNet]({{site.baseurl}}/img/ddffnet.png){: .center-image }
 <br>
 
 <div style="text-align: justify">
