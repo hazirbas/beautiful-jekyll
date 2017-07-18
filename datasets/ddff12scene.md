@@ -5,6 +5,7 @@ subtitle: 4.5D Lightfield-Depth Benchmark
 show-avatar: false
 social-share: true
 share-img: https://hazirbas.github.io/img/ddff12scene.png
+use-site-title: true
 published: true
 ---
 

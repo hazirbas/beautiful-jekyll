@@ -5,6 +5,7 @@ subtitle: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Ar
 show-avatar: false
 social-share: true
 share-img: https://hazirbas.github.io/publications/hazirbas16fusenet.png
+use-site-title: true
 published: true
 ---
 

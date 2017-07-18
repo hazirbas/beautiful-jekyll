@@ -5,6 +5,7 @@ subtitle: Caner Hazirbas, Laura Leal-Taixé, Daniel Cremers
 show-avatar: false
 social-share: true
 share-img: https://hazirbas.github.io/img/ddffteaser.png
+use-site-title: true
 published: true
 ---
 

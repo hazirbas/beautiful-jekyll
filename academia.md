@@ -2,6 +2,7 @@
 layout: default
 title:
 subtitle:
+use-site-title: true
 published: true
 ---
 
