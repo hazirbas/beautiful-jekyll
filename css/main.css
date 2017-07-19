@@ -706,7 +706,7 @@ td.gutter {
   border:none;
 }
 
-/* responsive videos */
+/* --- responsive videos --- */
 /* https://github.com/pibby/jekyll-youtube */
 .video figure {
   position: relative;
@@ -722,4 +722,13 @@ td.gutter {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+/* --- span, alignt text to right --- */
+.left{
+    float:left;
+}
+
+.right{
+    float:right;
 }
