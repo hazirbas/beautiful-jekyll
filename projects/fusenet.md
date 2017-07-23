@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FuseNet
-subtitle: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture <br><br> Caner Hazirbas, Lingni Ma, Csaba Domokos, Daniel Cremers
+subtitle: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture <br><br> Caner Hazirbas<sup>&#8224;</sup>, Lingni Ma<sup>&#8224;</sup>, Csaba Domokos, Daniel Cremers
 show-avatar: false
 social-share: true
 share-img: https://hazirbas.github.io/publications/hazirbas16fusenet.png
@@ -24,6 +24,8 @@ In this paper we address the problem of semantic labeling of indoor scenes on RG
 <button class="button buttonpaper"> code </button>
 </a>
 </div>
+
+&#8224; Authors contributed equally.
 
 ### Bibtex
 ```
