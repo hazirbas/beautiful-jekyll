@@ -31,7 +31,7 @@ navbar-links:
    - ddff12scene: "https://hazirbas.github.io/datasets/ddff12scene/"
    - fusenet: "https://hazirbas.github.io/projects/fusenet/"
   # Datasets:
-   
+
   Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -52,10 +52,10 @@ author:
   telephone: +4917643620271
   linkedin: canerhazirbas
   github: hazirbas
+  twitter: CHz89
   youtube: channel/UCDdqrM_Djhx8u1jd2q5Rklw
   google-plus: +CanerHazırbaş
-  facebook: canerhazirbas
-  twitter: CHz89 
+  # facebook: canerhazirbas
   # reddit: yourname
   # xing: yourname
   # stackoverflow: yourlink
@@ -72,7 +72,7 @@ footer-links-active:
   github: true
   youtube: true
   google-plus: true
-  facebook: true
+  facebook: false
   twitter: true
   reddit: false
   xing: false
@@ -116,7 +116,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
