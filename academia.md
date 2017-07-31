@@ -12,7 +12,7 @@ published: true
   * Hands-on Deep Learning for Computer Vision (WS16/17)
 
 
-### Attended Conferences ###
+#### Attended Conferences ####
   * **ICCV'17**
     * Image-based localization using LSTMs for structured feature correlation
     * Learning Proximal Operators: Using Denoising Networks for Regularizing Inverse Imaging Problems
@@ -23,7 +23,7 @@ published: true
   * **SSVM'15**
     * Optimizing the Relevance-Redundancy Tradeoff for Efficient Semantic Segmentation
 
-### Public Talks ###
+#### Public Talks ####
 
   * **[DL Workshop, MPI-ETH](https://is.tuebingen.mpg.de/events/cls-workshop-deep-learning-theory-and-practice){:target="_blank"}**, July 11 '16
     * FlowNet: Learning Optical Flow with Convolutional Networks
