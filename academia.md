@@ -3,6 +3,7 @@ layout: page
 published: true
 ---
 
+
 ### Teaching ###
   * Deep Learning for Computer Vision (SS17)
   * Seminar: Current Trends in Machine Learning (WS14/15)
