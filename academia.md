@@ -3,6 +3,7 @@ layout: page
 published: true
 ---
 
+My academic activities
 
 ### Teaching ###
   * Deep Learning for Computer Vision (SS17)
