@@ -1,6 +1,7 @@
 ---
 layout: page
-use-site-title: true
+title:
+subtitle:
 published: true
 ---
 
