@@ -1,7 +1,5 @@
 ---
 layout: page
-title:
-subtitle:
 use-site-title: true
 published: true
 ---
@@ -30,7 +28,7 @@ published: true
   * **[DL Workshop, MPI-ETH](https://is.tuebingen.mpg.de/events/cls-workshop-deep-learning-theory-and-practice){:target="_blank"}**, July 11 '16
     * FlowNet: Learning Optical Flow with Convolutional Networks
   * **[CIS @LMU](http://www.cis.uni-muenchen.de/){:target="_blank"}**, November 24 '15
-    * Convolutional Neural Networks for Computer Vision [slides]({{ site.url }}/slides/cnnforcv.pdf)
+    * Convolutional Neural Networks for Computer Vision
   * **[MLSS'15 Kyoto](http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php){:target="_blank"}**, September 4 '15
     * FlowNet: Learning Optical Flow with Convolutional Networks
   * **[Kleine Bayessche AG@Augsburg Uni](https://pizzaseminar.speicherleck.de/index-4.html){:target="_blank"}**, July 9 '15
