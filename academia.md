@@ -19,9 +19,9 @@ published: true
   * **ACCV'16**
     * FuseNet: Incorporating Depth into Semantic Segmentation via Fusion-based CNN Architecture
   * **GCPR'15**
-    * CAPTCHA Recognition with Active Deep Learning
+    * CAPTCHA Recognition with Active Deep Learning [slides]({{ site.url }}/slides/gcpr2015captcha.pdf)
   * **SSVM'15**
-    * Optimizing the Relevance-Redundancy Tradeoff for Efficient Semantic Segmentation
+    * Optimizing the Relevance-Redundancy Tradeoff for Efficient Semantic Segmentation [slides]({{ site.url }}/slides/ssvm2015hazirbas.pdf)
 
 #### Public Talks ####
 
@@ -32,8 +32,8 @@ published: true
   * **[MLSS'15 Kyoto](http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php){:target="_blank"}**, September 4 '15
     * FlowNet: Learning Optical Flow with Convolutional Networks
   * **[Kleine Bayessche AG@Augsburg Uni](https://pizzaseminar.speicherleck.de/index-4.html){:target="_blank"}**, July 9 '15
-    * Deep CNNs for Applications in Computer Vision
+    * Deep CNNs for Applications in Computer Vision [slides]({{ site.url }}/slides/cnnsforcv.pdf)
   * **[ACM Munich Tech Talk](http://munichacm.de/index.html){:target="_blank"}** , June 24 '15
-    * Deep Learning in Action
+    * Deep Learning in Action [slides]({{ site.url }}/slides/deep_learning_in_computer_vision.pdf)
 
 <div class="video"><figure><iframe width="640" height="480" align="center" src="//www.youtube.com/embed/6hIUFklI28I?list=PLjj5PRRQTrvk2iE5ImaTDh7FK1kE5yW23" frameborder="2" allowfullscreen></iframe></figure></div>
