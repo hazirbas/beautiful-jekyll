@@ -25,7 +25,7 @@ Dataset consists of 720 lightfield images, each of which has 9 × 9 undistorted 
 </div>
 <div style="text-align: center">
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/rawimage.tar.gz">
-<button class="button buttonpaper">RawImage[29.7GB]</button>
+<button class="button buttonpaper">RawImage [29.7GB]</button>
 </a>
 </div>
 
