@@ -11,19 +11,21 @@ published: true
 ![DDFF12Scene]({{site.baseurl}}/img/ddff12scene.png){: .center-image }
 <br>
 
-Dataset consists of 720 lightfield images, each of which has 9 × 9 undistorted subapertures and each subaperture has 383 × 552 image resolution. Lightfields are saved as numpy array and can be load with numpy.load() in Python. Registered depth images are saved as unsigned int 16 bits and only available for "train" set. Depth values are scaled with a factor of 1000.
+<div style="text-align: justify">
+Dataset consists of 720 lightfield images, each of which has 9 × 9 undistorted subapertures and each subaperture has 383 × 552 image resolution. Lightfields are saved as numpy array and can be loaded with numpy.load() in Python. Registered depth images are saved as unsigned int 16 bits and only available for "train" set. Depth values are scaled with a factor of 1000.
+</div>
 
 <div style="text-align: center">
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lightfield.tar.gz">
-<button class="button buttonpaper">lighfield.tar.gz [24.5GB]</button>
+<button class="button buttonpaper">Lightfield [24.5GB]</button>
 </a>
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/depthregistered.tar.gz">
-<button class="button buttonpaper">depthregistered.tar.gz [57.9MB]</button>
+<button class="button buttonpaper">DepthRegistered [57.9MB]</button>
 </a>
 </div>
 
 ### Log
-[15/09/2017] -- Lightfield images along with registered depth maps are online.
+[15-09-2017] -- Lightfield images along with registered depth maps are online.
 
 ### Bibtex
 ```
