@@ -45,6 +45,9 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 </a>
 </div>
 
+### License
+All data in the DDFF 12-Scene benchmark is licensed under a [Creative Commons 4.0 Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.
+
 ### Log
 [15-09-2017] -- Lightfield images along with registered depth maps and raw Lytro ILLUM images are online.
 
