@@ -29,7 +29,9 @@ depth = cv2.imread('DEPTH_0001.png', cv2.IMREAD_ANYDEPTH) * 0.001
 depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 {% endhighlight %}
 </li>
-<li>raw images consist of Lytro ILLUM RAW formatted images, can be used with Lytro Desktop or Lytro Power Tools.
+<li>raw images consist of Lytro ILLUM RAW formatted images.
+</li>
+<li>calibration files required by Lytro Desktop or Lytro Power Tools.
 </li>
 </ul>
 
@@ -42,6 +44,9 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 </a>
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/rawimage.tar.gz">
 <button class="button buttonpaper">RawImage [29.7GB]</button>
+</a>
+<a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/B5143904760.tar.gz">
+<button class="button buttonpaper">Lytro Calib [1.5GB]</button>
 </a>
 </div>
 
