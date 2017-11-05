@@ -28,8 +28,9 @@ navbar-links:
   Academia: "academia"
   Projects:
    - ddff: "https://hazirbas.github.io/projects/ddff/"
-   - ddff12scene: "https://hazirbas.github.io/datasets/ddff12scene/"
+   - tum-lsi: "https://hazirbas.github.io/datasets/tum-lsi/"
    - fusenet: "https://hazirbas.github.io/projects/fusenet/"
+   - ddff12scene: "https://hazirbas.github.io/datasets/ddff12scene/"
   # Datasets:
 
   Blog: "blog"

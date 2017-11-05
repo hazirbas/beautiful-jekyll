@@ -35,5 +35,3 @@ published: true
     * Deep CNNs for Applications in Computer Vision [slides]({{ site.url }}/slides/cnnsforcv.pdf)
   * **[ACM Munich Tech Talk](http://munichacm.de/index.html){:target="_blank"}** , June 24 '15
     * Deep Learning in Action [slides]({{ site.url }}/slides/deep_learning_in_computer_vision.pdf)
-
-<div class="video"><figure><iframe width="640" height="480" align="center" src="//www.youtube.com/embed/6hIUFklI28I?list=PLjj5PRRQTrvk2iE5ImaTDh7FK1kE5yW23" frameborder="2" allowfullscreen></iframe></figure></div>
