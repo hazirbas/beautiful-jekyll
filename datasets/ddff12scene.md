@@ -31,11 +31,13 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 </li>
 <li>raw images consist of Lytro ILLUM RAW formatted images.
 </li>
-<li>calibration files required by Lytro Desktop or Lytro Power Tools.
+<li>calibration pattern for the Lytro ILLUM camera.
+</li>
+<li>white images required by the Lytro Desktop and the Lytro Power Tools.
 </li>
 </ul>
 
-<div style="text-align: center">
+<div style="text-align: left">
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lightfield.tar.gz">
 <button class="button buttonpaper">Lightfield [24.5GB]</button>
 </a>
@@ -45,8 +47,11 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/rawimage.tar.gz">
 <button class="button buttonpaper">RawImage [29.7GB]</button>
 </a>
+<a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lytrocalibpattern.tar.gz">
+<button class="button buttonpaper">CalibPattern [2.3GB]</button>
+</a>
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/B5143904760.tar.gz">
-<button class="button buttonpaper">Lytro Calib [1.5GB]</button>
+<button class="button buttonpaper">WhiteImages [1.5GB]</button>
 </a>
 </div>
 
