@@ -34,7 +34,7 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 </li>
 <li><b>CalibPattern</b>: calibration pattern for the Lytro ILLUM camera
 </li>
-<li><b>WhiteImages</b>: white images required by the Lytro Desktop and the Lytro Power Tools
+<li><b>WhiteImages</b>: white images required by the Lytro Desktop and Power Tools
 </li>
 </ul>
 
