@@ -20,11 +20,8 @@ lf = np.load('LF_0001.npy')
 {% endhighlight %}
 </li>
 <li><b>Lightfield-mat</b>: 4D lightfield images in Matlab format
-{% highlight matlab %}
-load 'LF_0001.mat'
-{% endhighlight %}
 </li>
-<li><b>DepthRegistered</b>: registered depth maps; recorded in meters and scaled by a factor of 1000. Depth images are saved in uint16 bits and only available for "train" set.
+<li><b>DepthRegistered</b>: registered depth maps; recorded in meters and scaled by a factor of 1000. Depth images are saved in uint16 bits and only available for "train" set
 {% highlight python %}
 import cv2
 from PIL import Image
@@ -33,11 +30,11 @@ depth = cv2.imread('DEPTH_0001.png', cv2.IMREAD_ANYDEPTH) * 0.001
 depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 {% endhighlight %}
 </li>
-<li><b>RawImage</b>: raw images consist of Lytro ILLUM RAW formatted images.
+<li><b>RawImage</b>: raw images consist of Lytro ILLUM RAW formatted images
 </li>
-<li><b>CalibPattern</b>: calibration pattern for the Lytro ILLUM camera.
+<li><b>CalibPattern</b>: calibration pattern for the Lytro ILLUM camera
 </li>
-<li><b>WhiteImages</b>: white images required by the Lytro Desktop and the Lytro Power Tools.
+<li><b>WhiteImages</b>: white images required by the Lytro Desktop and the Lytro Power Tools
 </li>
 </ul>
 
@@ -46,10 +43,7 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 <button class="button buttonpaper">Lightfield [24.5GB]</button>
 </a>
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lightfield-mat.tar.gz">
-<button class="button buttonpaper">Lightfield-mat [24.5GB]</button>
-</a>
-<a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lightfield.tar.gz">
-<button class="button buttonpaper">Lightfield-mat[24.5GB]</button>
+<button class="button buttonpaper">Lightfield-mat [23.9GB]</button>
 </a>
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/depthregistered.tar.gz">
 <button class="button buttonpaper">DepthRegistered [57.9MB]</button>
