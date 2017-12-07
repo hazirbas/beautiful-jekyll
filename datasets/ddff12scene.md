@@ -65,7 +65,7 @@ All data in the DDFF 12-Scene benchmark is licensed under a [Creative Commons 4.
 ### Log
 [07-12-2017] -- Lighfield images in Matlab format<br>
 [05-12-2017] -- Lighfield calibration pattern and white images<br>
-[15-09-2017] -- Lightfield images along with registered depth maps and raw Lytro ILLUM images
+[15-09-2017] -- Lightfield images, registered depth maps and raw Lytro ILLUM images
 
 ### Bibtex
 ```
