@@ -14,7 +14,7 @@ published: true
 
 DDFF 12-Scene dataset consists of in total 720
 <ul style="line-height:2">
-<li>4D lightfield images: each of which has 9 × 9 undistorted subapertures (383x552). Images are saved as a numpy array and can be loaded with
+<li>4D lightfield images: each of which has 9 × 9 undistorted subapertures (383x552). Images are saved as a numpy array and can be loaded as follows:
 {% highlight python %}
 import numpy as np
 lf = np.load('LF_0001.npy')
