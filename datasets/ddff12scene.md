@@ -11,7 +11,7 @@ published: true
 ![DDFF12Scene]({{site.baseurl}}/img/ddff12scene.png){: .center-image }
 <div style="text-align: center">
 <a href="https://competitions.codalab.org/competitions/17807" target="_blank">
-<button class="buttonred buttonpaper"> >> Depth From Focus Competition on the DDFF 12-Scene Dataset << </button>
+<button class="button buttonpaper"> >> Depth From Focus Competition on the DDFF 12-Scene Dataset << </button>
 </a>
 </div>
 DDFF 12-Scene dataset consists of 720 lightfield images and coregistered depth maps.
