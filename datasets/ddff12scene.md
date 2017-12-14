@@ -9,9 +9,12 @@ published: true
 ---
 
 ![DDFF12Scene]({{site.baseurl}}/img/ddff12scene.png){: .center-image }
-<br>
-
-DDFF 12-Scene dataset consists of in total 720
+<div style="text-align: center">
+<a href="https://competitions.codalab.org/competitions/17807" target="_blank">
+<button class="buttonred buttonpaper"> >> Depth From Focus Competition on the DDFF 12-Scene Dataset << </button>
+</a>
+</div>
+DDFF 12-Scene dataset consists of 720 lightfield images and coregistered depth maps.
 <ul style="line-height:2">
 <li><b>Lightfield</b>: 4D lightfield images; each of which has 9 × 9 × 383 × 552 undistorted subapertures Images are saved as numpy arrays and can be loaded as follows:
 {% highlight python %}
@@ -32,9 +35,9 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 </li>
 <li><b>RawImage</b>: raw images consist of Lytro ILLUM RAW formatted images
 </li>
-<li><b>CalibPattern</b>: calibration pattern for the Lytro ILLUM camera
+<li><b>LF CalibPattern</b>: calibration pattern for the Lytro ILLUM camera
 </li>
-<li><b>WhiteImages</b>: white images required by the Lytro Desktop and the Lytro Power Tools
+<li><b>WhiteImages</b>: white images required by the Lytro Desktop
 </li>
 </ul>
 
@@ -52,10 +55,10 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 <button class="button buttonpaper">RawImage [29.7GB]</button>
 </a>
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lytrocalibpattern.tar.gz">
-<button class="button buttonpaper">CalibPattern [2.3GB]</button>
+<button class="button buttonpaper">LF CalibPattern [2.3GB]</button>
 </a>
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/B5143904760.tar.gz">
-<button class="button buttonpaper">WhiteImages [1.5GB]</button>
+<button class="button buttonpaper">LF WhiteImages [1.5GB]</button>
 </a>
 </div>
 
