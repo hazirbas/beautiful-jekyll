@@ -5,11 +5,11 @@ published: true
 ---
 
 #### Teaching ####
-  * Seminar: Current Trends in Deep Learning (SS18)
+  * Seminar: Current Trends in Deep Learning (SS18)  
+  * Hands-on Deep Learning for Computer Vision (WS16/17)
+  * Practical Course: Machine Learning for Applications in Computer Vision (SS15, SS16)
   * Seminar: Current Trends in Machine Learning (WS14/15)
   * Practical Course: GPU Programming in Computer Vision (WS14/15, SS15 WS15/16)
-  * Practical Course: Machine Learning for Applications in Computer Vision (SS15, SS16)
-  * Hands-on Deep Learning for Computer Vision (WS16/17)
 
 
 #### Attended Conferences ####
