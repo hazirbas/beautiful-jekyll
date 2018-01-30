@@ -70,6 +70,8 @@ footer-link-col: "#404040"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Caner Hazirbas
+
+social-network-links:
   email: "hazirbas@cs.tum.edu"
   telephone: +4917643620271
   linkedin: canerhazirbas
@@ -77,31 +79,6 @@ author:
   twitter: CHz89
   youtube: channel/UCDdqrM_Djhx8u1jd2q5Rklw
   google-plus: +CanerHazırbaş
-  # facebook: canerhazirbas
-  # reddit: yourname
-  # xing: yourname
-  # stackoverflow: yourlink
-  # snapchat: yourname
-  # instagram: yourname
-  # spotify: yourname
-
-# Select which links to show in the footer
-footer-links-active:
-  rss: false
-  email: true
-  telephone: true
-  linkedin: true
-  github: true
-  youtube: true
-  google-plus: true
-  facebook: false
-  twitter: true
-  reddit: false
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  spotify: false
 
 # Select which share links to show in posts
 share-links-active:
