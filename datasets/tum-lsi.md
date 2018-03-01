@@ -12,7 +12,7 @@ published: true
 <a href="https://github.com/NavVisResearch/NavVis-Indoor-Dataset/" target="_blank">
 <button class="button buttonpaper">TUM LSI Dataset</button>
 </a>
-<a href="http://hazirbas.com/projects/tum-lsi/tum-lsi.zip">
+<a href="http://hazirbas.com/datasets/tum-lsi.zip">
 <button class="button buttonpaper">Train/Test Splits</button>
 </a>
 </div>
