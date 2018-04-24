@@ -60,6 +60,12 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/B5143904760.tar.gz">
 <button class="button buttonpaper">LF WhiteImages [1.5GB]</button>
 </a>
+<a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/ddff-dataset-trainval.h5">
+<button class="button buttonpaper">DDFF Trainval [12.6GB]</button>
+</a>
+<a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/ddff-dataset-test.h5">
+<button class="button buttonpaper">DDFF Test [761.1MB]</button>
+</a>
 </div>
 
 ### License
