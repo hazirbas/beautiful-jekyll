@@ -22,7 +22,13 @@ Depth from Focus (DFF) is one of the classical ill-posed inverse problems in com
 <a href="https://arxiv.org/pdf/1704.01085" target="_blank">
 <button class="button buttonpaper"> pdf </button>
 </a>
+<a href="http://hazirbas.com/datasets/ddff12scene/" target="_blank">
+<button class="button buttonpaper"> data </button>
+</a>
 <a href="https://github.com/hazirbas/ddff-toolbox" target="_blank">
+<button class="button buttonpaper"> toolbox </button>
+</a>
+<a href="https://github.com/gameover27/ddff-pytorch" target="_blank">
 <button class="button buttonpaper"> code </button>
 </a>
 </div>
