@@ -5,8 +5,7 @@
   booktitle = {ArXiv},
   month = {January},
   year = {2018},
-  eprint = {1801.06397},
-  abstract = {The finding that very large networks can be trained efficiently and reliably has led to a paradigm shift in computer vision from engineered solutions to learning formulations. As a result, the research challenge shifts from devising algorithms to creating suitable and abundant training data for supervised learning. How to efficiently create such training data? The dominant data acquisition method in visual recognition is based on web data and manual annotation. Yet, for many computer vision problems, such as stereo or optical flow estimation, this approach is not feasible because humans cannot manually enter a pixel-accurate flow field. In this paper, we promote the use of synthetically generated data for the purpose of training deep networks on such tasks.We suggest multiple ways to generate such data and evaluate the influence of dataset properties on the performance and generalization properties of the resulting networks. We also demonstrate the benefit of learning schedules that use different types of data at selected stages of the training process.}
+  eprint = {1801.06397}
 }
 </pre>
 
@@ -18,8 +17,7 @@
   year = {2017},
   booktitle = {ArXiv},
   eprint = {1704.01085},
-  url = {<a href="https://github.com/hazirbas/ddff-toolbox">https://github.com/hazirbas/ddff-toolbox</a>},
-  abstract = {Depth from Focus (DFF) is one of the classical ill-posed inverse problems in computer vision. Most approaches recover the depth at each pixel based on the focal setting which exhibits maximal sharpness. Yet, it is not obvious how to reliably estimate the sharpness level, particularly in low-textured areas.  In this paper, we propose `Deep Depth From Focus (DDFF)' as the first end-to-end learning approach to this problem. Towards this goal, we create a novel real-scene indoor benchmark composed of 4D light-field images obtained from a plenoptic camera and  ground truth depth obtained from a registered RGB-D sensor. Compared to existing benchmarks our dataset is 30 times larger, enabling the use of machine learning for this inverse problem. We compare our results with state-of-the-art DFF methods and we also analyze the effect of several key deep architectural components.  These experiments show that DDFFNet achieves state-of-the-art performance in all scenes, reducing depth error by more than 70% wrt classic DFF methods.}
+  url = {<a href="https://github.com/hazirbas/ddff-toolbox">https://github.com/hazirbas/ddff-toolbox</a>}
 }
 </pre>
 
@@ -31,8 +29,7 @@
   year = {2017},
   booktitle = {ICCV},
   eprint = {1704.03488},
-  url = {<a href="https://github.com/tum-vision/learn_prox_ops">https://github.com/tum-vision/learn_prox_ops</a>},
-  abstract = {While variational methods have been among the most powerful tools for solving linear inverse problems in imaging, deep (convolutional) neural networks have recently taken the lead in many challenging benchmarks. A remaining drawback of deep learning approaches is that they require an expensive retraining whenever the specific problem, the noise level, noise type, or desired measure of fidelity changes. On the contrary, variational methods have a plug-and-play nature as they usually consist of separate data fidelity and regularization terms. In this paper we study the possibility of replacing the proximal operator of the regularization used in many convex energy minimization algorithms by a denoising neural network. The latter therefore serves as an implicit natural image prior, while the data term can still be chosen arbitrarily. Using a fixed denoising neural network in exemplary problems of image deconvolution with different blur kernels and image demosaicking, we obtain state-of-the-art results. Additionally, we discuss novel results on the analysis of possible convex optimization algorithms to incorporate the network into, as well as the choices of algorithm parameters and their relation to the noise level the neural network is trained on.}
+  url = {<a href="https://github.com/tum-vision/learn_prox_ops">https://github.com/tum-vision/learn_prox_ops</a>}
 }
 </pre>
 
@@ -44,8 +41,7 @@
   year = {2017},
   booktitle = {ICCV},
   eprint = {1611.07890},
-  url = {<a href="https://github.com/NavVisResearch/NavVis-Indoor-Dataset">https://github.com/NavVisResearch/NavVis-Indoor-Dataset</a>},
-  abstract = {In this work we propose a new CNN+LSTM architecture for camera pose regression for indoor and outdoor scenes. CNNs allow us to learn suitable feature representations for localization that are robust against motion blur and illumination changes. We make use of LSTM units on the CNN output, which play the role of a structured dimensionality reduction on the feature vector, leading to drastic improvements in localization performance. We provide extensive quantitative comparison of CNN-based vs SIFT-based localization methods, showing the weaknesses and strengths of each. Furthermore, we present a new large-scale indoor sequence with accurate ground truth from a laser scanner. Experimental results on both indoor and outdoor public datasets show our method outperforms existing deep architectures, and can localize images in hard conditions, e.g., in the presence of mostly textureless surfaces, where classic SIFT-based methods fail.}
+  url = {<a href="http://hazirbas.com/datasets/tum-lsi">http://hazirbas.com/datasets/tum-lsi</a>}
 }
 </pre>
 
@@ -57,8 +53,7 @@
   year = {2016},
   booktitle = {ACCV},
   url = {<a href="https://github.com/tum-vision/fusenet">https://github.com/tum-vision/fusenet</a>},
-  doi = {<a href="https://dx.doi.org/10.1007/978-3-319-54181-5_14">https://dx.doi.org/10.1007/978-3-319-54181-5_14</a>},
-  abstract = {In this paper we address the problem of semantic labeling of indoor scenes on RGB-D data. With the availability of RGB-D cameras, it is expected that additional depth measurement will improve the accuracy. Here we investigate a solution how to incorporate complementary depth information into a semantic segmentation framework by making use of convolutional neural networks (CNNs). Recently encoder-decoder type fully convolutional CNN architectures have achieved a great success in the field of semantic segmentation. Motivated by this observation we propose an encoder-decoder type network, where the encoder part is composed of two branches of networks that simultaneously extract features from RGB and depth images and fuse depth features into the RGB feature maps as the network goes deeper. Comprehensive experimental evaluations demonstrate that the proposed fusion-based architecture achieves competitive results with the state-of-the-art methods on the challenging SUN RGB-D benchmark obtaining 76.27% global accuracy, 48.30% average class accuracy and 37.29% average intersection-over-union score.}
+  doi = {<a href="https://dx.doi.org/10.1007/978-3-319-54181-5_14">https://dx.doi.org/10.1007/978-3-319-54181-5_14</a>}
 }
 </pre>
 
@@ -69,23 +64,20 @@
   month = {October},
   year = {2015},
   booktitle = {GCPR Workshop on New Challenges in Neural Computation},
-  url = {<a href="https://github.com/tum-vision/captcha_recognition">https://github.com/tum-vision/captcha_recognition</a>},
-  abstract = {\texttt{CAPTCHA}s are automated tests to tell computers and humans apart. They are designed to be easily solvable by humans, but unsolvable by machines. With Convolutional Neural Networks these tests can also be solved automatically. However, the strength of CNNs relies on the training data that the classifier is learnt on and especially on the size of the training set. Hence, it is intractable to solve the problem with CNNs in case of insufficient training data. We propose an Active Deep Learning strategy that makes use of the ability to gain new training data for free without any human intervention which is possible in the special case of CAPTCHAs. We discuss how to choose the new samples to re-train the network and present results on an auto-generated CAPTCHA dataset. Our approach dramatically improves the performance of the network if we initially have only few labeled training data.}
+  url = {<a href="https://github.com/tum-vision/captcha_recognition">https://github.com/tum-vision/captcha_recognition</a>}
 }
 </pre>
 
 <a name="dosovitskiy15flownet"></a><pre>
 @inproceedings{<a href="hazirbas.html#dosovitskiy15flownet">dosovitskiy15flownet</a>,
-  author = {A. Dosovitskiy and P. Fischer and E. Ilg and P. Haeusser and 
+  author = {A. Dosovitskiy and P. Fischer and E. Ilg and P. Haeusser and
 	          C. Hazirbas and V. Golkov and P. van der Smagt and D. Cremers and T. Brox},
   title = {\textbf{FlowNet: Learning Optical Flow with Convolutional Networks}},
   month = {December},
   year = {2015},
   booktitle = {ICCV},
   eprint = {1504.06852},
-  doi = {<a href="https://dx.doi.org/10.1109/ICCV.2015.316">https://dx.doi.org/10.1109/ICCV.2015.316</a>},
-  abstract = {Convolutional neural networks (CNNs) have recently been very successful in a variety of computer vision tasks, especially on those linked to recognition. Optical flow estimation has not been among the tasks where CNNs were successful. In this paper we construct appropriate CNNs which are capable of solving the optical flow estimation problem as a supervised learning task. We propose and compare two architectures: a generic architecture and another one including a layer that correlates feature vectors at different image locations. \\
- Since existing ground truth data sets are not sufficiently large to train a CNN, we generate a synthetic Flying Chairs dataset. We show that networks trained on this unrealistic data still generalize very well to existing datasets such as Sintel and KITTI, achieving competitive accuracy at frame rates of 5 to 10 fps.}
+  doi = {<a href="https://dx.doi.org/10.1109/ICCV.2015.316">https://dx.doi.org/10.1109/ICCV.2015.316</a>}
 }
 </pre>
 
@@ -98,8 +90,7 @@
   booktitle = {SSVM},
   doi = {<a href="https://dx.doi.org/10.1007/978-3-319-18461-6_20">https://dx.doi.org/10.1007/978-3-319-18461-6_20</a>},
   url = {<a href="https://github.com/tum-vision/AFS">https://github.com/tum-vision/AFS</a>},
-  note = {\textbf{Oral Presentation}},
-  abstract = {Semantic segmentation aims at jointly computing a segmentation and a semantic labeling of the image plane. The main ingredient is an efficient feature selection strategy. In this work we perform a systematic information-theoretic evaluation of existing features in order to address the question which and how many features are appropriate for an efficient semantic segmentation. To this end, we discuss the tradeoff between relevance and redundancy and present an informationtheoretic feature evaluation strategy. Subsequently, we perform a systematic experimental validation which shows that the proposed feature selection strategy provides state-of-the-art semantic segmentations on five semantic segmentation datasets at significantly reduced runtimes. Moreover, it provides a systematic overview of which features are the most relevant for various benchmarks.}
+  note = {\textbf{Oral Presentation}}
 }
 </pre>
 
@@ -111,8 +102,7 @@
   year = {2015},
   booktitle = {SSVM},
   doi = {<a href="https://dx.doi.org/10.1007/978-3-319-18461-6_24">https://dx.doi.org/10.1007/978-3-319-18461-6_24</a>},
-  url = {<a href="https://github.com/NikolausDemmel/tvseg">https://github.com/NikolausDemmel/tvseg</a>},
-  abstract = {We propose a novel interactive multi-label RGB-D image segmentation method by extending spatially varying color distributions [14] to additionally utilize depth information in two different ways. On the one hand, we consider the depth image as an additional data channel. On the other hand, we extend the idea of spatially varying color distributions in a plane to volumetrically varying color distributions in 3D. Furthermore, we improve the data fidelity term by locally adapting the influence of nearby scribbles around each pixel. Our approach is implemented for parallel hardware and evaluated on a novel interactive RGB-D image segmentation benchmark with pixel-accurate ground truth. We show that depth information leads to considerably more precise segmentation results. At the same time significantly less user scribbles are required for obtaining the same segmentation accuracy as without using depth clues.}
+  url = {<a href="https://github.com/NikolausDemmel/tvseg">https://github.com/NikolausDemmel/tvseg</a>}
 }
 </pre>
 
@@ -123,9 +113,7 @@
   school = {Technical University Munich},
   address = {Germany},
   month = {June},
-  year = {2014},
-  abstract = {This work presents a comprehensive study on feature selection and learning for semantic segmentation. Various types of features, different learning algorithms in conjunction with minimizing a variational formulation, are discussed in order to obtain the best segmentation of the scene with minimal redundancy in the feature set. The features are scored in terms of relevance and redundancy. A clever feature selection reduces not only the redundancy but also the computational cost of object detection. Additionally different learning algorithms are studied and the most suitable multi-class object classifier is trained with the selected subset of features for detection based unary potential computation. In order to obtain consistent segmentation results we minimize a variational formulation of the multi-labelling problem by means of first order primal-dual optimization.
-  Experiments on different benchmarks give a deep understanding on how many and what kind of features and which learning algorithm should be used for semantic segmentation.}
+  year = {2014}
 }
 </pre>
 

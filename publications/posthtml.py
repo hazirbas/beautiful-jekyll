@@ -8,7 +8,7 @@ basehtml	= "hazirbas.html"
 baseurl		= "https://hazirbas.github.io/"
 baseurl		= ""
 imurl		= jpath(baseurl, "")
-bibtex2html	= "bibtex2html -s ieeetr -d -r -nf url source -noheader -nofooter -nodoc -linebreak -nf doi doi -nodoi -noabstract "
+bibtex2html	= "bibtex2html -s ieeetr -d -r -nf url source -noheader -nofooter -nodoc -linebreak -nf doi doi -nodoi -noabstract"
 
 subprocess.check_output(bibtex2html + ' ' + bibtexfile, shell=True)
 
@@ -17,7 +17,7 @@ def centertr(html):
 		if "<tr valign=" in line:
 			html[inx] = line.replace("top", "middle")
 	return html
-	
+
 def itemnum2imlink(html):
 	for inx, line in enumerate(html):
 		if "[<a name=" in line:
