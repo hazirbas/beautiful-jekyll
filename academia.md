@@ -6,6 +6,7 @@ published: true
 ---
 <p></p>
 ### Attended Conferences ###
+
 **ICCV'17** Image-based localization using LSTMs for structured feature correlation<br />
 **ICCV'17** Learning Proximal Operators<br />
 **ACCV'16** FuseNet<br />
@@ -14,13 +15,14 @@ published: true
 
 ### Public Talks ###
 
-  * **[DL Workshop, MPI-ETH](https://is.tuebingen.mpg.de/events/cls-workshop-deep-learning-theory-and-practice){:target="_blank"}**, July 11 '16, **FlowNet**
-  * **[CIS @LMU](http://www.cis.uni-muenchen.de/){:target="_blank"}**, November 24 '15, **CNNs for CV**
-  * **[MLSS'15 Kyoto](http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php){:target="_blank"}**, September 4 '15, **FlowNet**
-  * **[Kleine Bayessche AG@Augsburg Uni](https://pizzaseminar.speicherleck.de/index-4.html){:target="_blank"}**, July 9 '15, **CNNs for CV** [slides]({{ site.url }}/slides/cnnsforcv.pdf)
-  * **[ACM Munich Tech Talk](http://munichacm.de/index.html){:target="_blank"}** , June 24 '15, **Deep Learning in Action** [slides]({{ site.url }}/slides/deep_learning_in_computer_vision.pdf)
+**[DL Workshop, MPI-ETH](https://is.tuebingen.mpg.de/events/cls-workshop-deep-learning-theory-and-practice){:target="_blank"}**, July 11 '16, **FlowNet**<br />
+**[CIS @LMU](http://www.cis.uni-muenchen.de/){:target="_blank"}**, November 24 '15, **CNNs for CV**<br />
+**[MLSS'15 Kyoto](http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php){:target="_blank"}**, September 4 '15, **FlowNet**<br />
+**[Kleine Bayessche AG@Augsburg Uni](https://pizzaseminar.speicherleck.de/index-4.html){:target="_blank"}**, July 9 '15, **CNNs for CV** [slides]({{ site.url }}/slides/cnnsforcv.pdf)<br />
+**[ACM Munich Tech Talk](http://munichacm.de/index.html){:target="_blank"}** , June 24 '15, **Deep Learning in Action** [slides]({{ site.url }}/slides/deep_learning_in_computer_vision.pdf)<br />
 
 ### Teaching ###
+
 Seminar: Current Trends in Deep Learning (SS18)<br />
 Hands-on Deep Learning for Computer Vision (WS16/17)<br />
 Practical Course: Machine Learning for Applications in Computer Vision (SS15, SS16)<br />
