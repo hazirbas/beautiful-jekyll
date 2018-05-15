@@ -19,7 +19,7 @@ In this paper we address the problem of semantic labeling of indoor scenes on RG
 <a href="https://vision.in.tum.de/_media/spezial/bib/hazirbasma2016fusenet.pdf" target="_blank">
 <button class="button buttonpaper"> pdf </button>
 </a>
-<a href="https://github.com/tum-vision/fusenet" target="_blank">
+<a href="https://github.com/zanilzanzan/FuseNet_PyTorch" target="_blank">
 <button class="button buttonpaper"> code </button>
 </a>
 </div>
