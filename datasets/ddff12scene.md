@@ -43,42 +43,42 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
 
 <table class="borderless">
   <tr>
-    <th>
+    <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lightfield.tar.gz">
       <button style="width:100%" class="button buttonpaper">Lightfield [24.5GB]</button></a>
-    </th>
-    <th>
+    </td>
+    <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lightfield-mat.tar.gz">
       <button style="width:100%" class="button buttonpaper">Lightfield-mat [23.9GB]</button></a>
-    </th> 
-    <th>
+    </td> 
+    <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/depthregistered.tar.gz">
       <button style="width:100%" class="button buttonpaper">Depth [57.9MB]</button></a>
-    </th>
+    </td>
   </tr>
   <tr>
-    <th>
+    <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/rawimage.tar.gz">
       <button style="width:100%" class="button buttonpaper">Raw Images [29.7GB]</button></a>
-    </th>
-    <th>
+    </td>
+    <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lytrocalibpattern.tar.gz">
       <button style="width:100%" class="button buttonpaper">CalibPattern [2.3GB]</button></a>
-    </th>
-    <th>
+    </td>
+    <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/B5143904760.tar.gz">
       <button style="width:100%" class="button buttonpaper">WhiteImages [1.5GB]</button></a>
-    </th>
+    </td>
   </tr>
   <tr>
-    <th>
+    <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/ddff-dataset-trainval.h5">
       <button style="width:100%" class="button buttonpaper">DDFF Train [12.6GB]</button></a>
-    </th>
-    <th>
+    </td>
+    <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/ddff-dataset-test.h5">
       <button style="width:100%" class="button buttonpaper">DDFF Test [761.1MB]</button></a>
-    </th>
+    </td>
   </tr>
 </table>
 
