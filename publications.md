@@ -3,4 +3,4 @@ layout: page
 published: true
 ---
 
-{% include_relative publications/pubs.html %}
+{% include_relative publications/publications.html %}

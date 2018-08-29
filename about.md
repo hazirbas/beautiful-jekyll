@@ -3,11 +3,14 @@ layout: page
 published: true
 ---
 
-Yet another phd @[«TU Munich CV Group»](https://vision.cs.tum.edu/){:target="_blank"}, yet another deep learner for computer vision.
-
-
 **Deep Visioner**
 
+Yet another phd @[«TU Munich CV-AI Group»](https://vision.cs.tum.edu/){:target="_blank"}, yet another deep learner for computer vision.
+
 <div style="text-align: justify">
-Long story short, I am from Ankara, Turkey. I studied Computer Engineering Bachelors Degree at Yildiz Technical University in Istanbul and Computer Science Masters Degree at the TU Munich. Since my first lecture in bachelor, I am in love with computer vision and since the beginning of my Ph.D., with deep learning! Therefore I am a deep “visioner” and love deep discussions, especially the ones take long hours in the night with a glass of wine, in philosophy, history and technology. Ancient civilisations such as Sumer, are my favorites.
+Long story short, I am from Ankara, Turkey. After completing my Bachelors Degree in Computer Engineering at Yildiz Technical University in Istanbul, I did an internship at KIT, Karlsruhe and achieved my Masters Degree in Informatics from the TU Munich in 26th June 2018.
+<br><br>
+I m quite interested in computer vision since my bachelor and therefore I decided to pursue my doctoral studies also in computer vision but this time involving deep learning. Considering my deep interest in both topics, I call myself a "deep visioner”.
+<br><br>
+What I like is basically deep discussions in philosophy and history -mostly ancient civilisations- with a glass of wine.
 </div>
