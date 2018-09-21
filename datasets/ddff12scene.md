@@ -93,12 +93,14 @@ All data in the DDFF 12-Scene benchmark is licensed under a [Creative Commons 4.
 
 ### Bibtex
 ```
-@inproceedings{hazirbas17ddff,
-  title     = {Deep Depth From Focus},
-  author    = {C. Hazirbas and L. Leal-Taixé and D. Cremers},
-  booktitle = {Arxiv preprint arXiv:1704.01085},
-  month     = {April},
-  year      = {2017},
+@inproceedings{hazirbas18ddff,
+ author    = {C. Hazirbas and and S. Soyer and M. Staab and L. Leal-Taixé and D. Cremers},
+ title     = {Deep Depth From Focus},
+ booktitle = {Asian Conference on Computer Vision (ACCV)},
+ year      = {2018},
+ month     = {December},
+ eprint    = {1704.01085},
+ url       = {https://hazirbas.com/projects/ddff/},
 }
 ```
 
