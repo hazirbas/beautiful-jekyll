@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep Depth From Focus
-subtitle: Caner Hazirbas, Laura Leal-Taixé, Daniel Cremers
+subtitle: Caner Hazirbas, Sebastian Soyer, Maximilian Staab, Laura Leal-Taixé, Daniel Cremers
 show-avatar: false
 social-share: true
 share-img: https://hazirbas.github.io/img/ddffteaser.png
@@ -12,7 +12,7 @@ published: true
 <br>
 
 <div style="text-align: justify">
-Depth from Focus (DFF) is one of the classical ill-posed inverse problems in computer vision. Most approaches recover the depth at each pixel based on the focal setting which exhibits maximal sharpness. Yet, it is not obvious how to reliably estimate the sharpness level, particularly in low-textured areas. In this paper, we propose `Deep Depth From Focus (DDFF)' as the first end-to-end learning approach to this problem. Towards this goal, we create a novel real-scene indoor benchmark composed of 4D light-field images obtained from a plenoptic camera and ground truth depth obtained from a registered RGB-D sensor. Compared to existing benchmarks our dataset is 25 times larger, enabling the use of machine learning for this inverse problem. We compare our results with state-of-the-art DFF methods and we also analyze the effect of several key deep architectural components. These experiments show that DDFFNet achieves state-of-the-art performance in all scenes, reducing depth error by more than 75% wrt classic DFF methods.
+	Depth from Focus (DFF) is one of the classical ill-posed inverse problems in computer vision. Most approaches recover the depth at each pixel based on the focal setting which exhibits maximal sharpness. Yet, it is not obvious how to reliably estimate the sharpness level, particularly in low-textured areas.  In this paper, we propose `Deep Depth From Focus (DDFF)' as the first end-to-end learning approach to this problem.	One of the main challenges we face is the hunger for data of deep neural networks. In order to obtain a significant amount of focal stacks with corresponding ground truth depth, we propose to leverage a light-field camera with a co-calibrated RGB-D sensor. This allows us to digitally create focal stacks of varying sizes. Compared to existing benchmarks our dataset is 25 times larger, enabling the use of machine learning for this inverse problem. We compare our results with state-of-the-art DFF methods and we also analyze the effect of several key deep architectural components. These experiments show that DDFFNet achieves state-of-the-art performance in all scenes, reducing depth error by more than 75% wrt classic DFF methods.
 </div>
 
 <div style="text-align: center">
@@ -35,12 +35,13 @@ Depth from Focus (DFF) is one of the classical ill-posed inverse problems in com
 
 ### Bibtex
 ```
-@inproceedings{hazirbas17ddff,
+@inproceedings{hazirbas18ddff,
   title     = {Deep Depth From Focus},
-  author    = {C. Hazirbas and L. Leal-Taixé and D. Cremers},
-  booktitle = {Arxiv preprint arXiv:1704.01085},
-  month     = {April},
-  year      = {2017},
+  author    = {C. Hazirbas and S. Soyer and M. Staab and L. Leal-Taixé and D. Cremers},
+  booktitle = {Asian Conference on Computer Vision (ACCV)},
+  eprint    = {1704.01085},
+  month     = {December},
+  year      = {2018},
 }
 ```
 
