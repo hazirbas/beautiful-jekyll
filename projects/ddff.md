@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deep Depth From Focus
-subtitle: Caner Hazirbas, Sebastian Georg Soyer, Maximilian Staab, Laura Leal-Taixé, Daniel Cremers
+subtitle: C. Hazirbas, S. G. Soyer, M. C. Staab, L. Leal-Taixé, D. Cremers
 show-avatar: false
 social-share: true
 share-img: https://hazirbas.github.io/img/ddffteaser.png
@@ -36,7 +36,7 @@ published: true
 ### Bibtex
 ```
 @inproceedings{hazirbas18ddff,
- author    = {C. Hazirbas and and S. G. Soyer and M. Staab and L. Leal-Taixé and D. Cremers},
+ author    = {C. Hazirbas and and S. G. Soyer and M. C. Staab and L. Leal-Taixé and D. Cremers},
  title     = {Deep Depth From Focus},
  booktitle = {Asian Conference on Computer Vision (ACCV)},
  year      = {2018},
