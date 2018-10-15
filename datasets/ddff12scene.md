@@ -50,7 +50,7 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
     <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/lightfield-mat.tar.gz">
       <button style="width:100%" class="button buttonpaper">Lightfield-mat [23.9GB]</button></a>
-    </td> 
+    </td>
     <td>
       <a href="https://vision.in.tum.de/webarchive/hazirbas/ddff12scene/depthregistered.tar.gz">
       <button style="width:100%" class="button buttonpaper">Depth [57.9MB]</button></a>
@@ -94,7 +94,7 @@ All data in the DDFF 12-Scene benchmark is licensed under a [Creative Commons 4.
 ### Bibtex
 ```
 @inproceedings{hazirbas18ddff,
- author    = {C. Hazirbas and and S. Soyer and M. Staab and L. Leal-Taixé and D. Cremers},
+ author    = {C. Hazirbas and and S. G. Soyer and M. Staab and L. Leal-Taixé and D. Cremers},
  title     = {Deep Depth From Focus},
  booktitle = {Asian Conference on Computer Vision (ACCV)},
  year      = {2018},
