@@ -28,7 +28,7 @@ published: true
 <a href="https://github.com/hazirbas/ddff-toolbox" target="_blank">
 <button class="button buttonpaper"> toolbox </button>
 </a>
-<a href="https://github.com/gameover27/ddff-pytorch" target="_blank">
+<a href="https://github.com/soyers/ddff-pytorch" target="_blank">
 <button class="button buttonpaper"> code </button>
 </a>
 </div>
