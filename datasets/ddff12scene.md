@@ -82,6 +82,9 @@ depth = np.array(Image.open('DEPTH_0001.png'), dtype=np.float) * 0.001
   </tr>
 </table>
 
+### Depth From Focus Competition
+Please submit your test results to <a href="https://competitions.codalab.org/competitions/17807" target="_blank">the DFF competition</a>.
+
 ### License
 All data in the DDFF 12-Scene benchmark is licensed under a [Creative Commons 4.0 Attribution License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.
 
