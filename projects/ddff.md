@@ -35,7 +35,7 @@ published: true
 
 ### Bibtex
 ```
-@inproceedings{hazirbas18ddff,
+@InProceedings{hazirbas18ddff,
  author    = {C. Hazirbas and and S. G. Soyer and M. C. Staab and L. Leal-Taixé and D. Cremers},
  title     = {Deep Depth From Focus},
  booktitle = {Asian Conference on Computer Vision (ACCV)},
