@@ -31,8 +31,6 @@ navbar-links:
    - fusenet: "https://hazirbas.github.io/projects/fusenet/"
    - tum-lsi: "https://hazirbas.github.io/datasets/tum-lsi/"
    - ddff12scene: "https://hazirbas.github.io/datasets/ddff12scene/"
-  # Datasets:
-
   Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
