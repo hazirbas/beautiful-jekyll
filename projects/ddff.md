@@ -22,7 +22,10 @@ published: true
 <a href="https://arxiv.org/pdf/1704.01085" target="_blank">
 <button class="button buttonpaper"> pdf </button>
 </a>
-<a href="http://hazirbas.com/datasets/ddff12scene/" target="_blank">
+<a href="{{site.baseurl}}/slides/ddffposter.pdf" target="_blank">
+<button class="button buttonpaper"> poster </button>
+</a>
+<a href="{{site.baseurl}}/datasets/ddff12scene/" target="_blank">
 <button class="button buttonpaper"> data </button>
 </a>
 <a href="https://github.com/hazirbas/ddff-toolbox" target="_blank">
