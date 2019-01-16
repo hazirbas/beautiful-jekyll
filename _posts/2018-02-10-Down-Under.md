@@ -8,7 +8,7 @@ tags: [australia, research, adelaide]
 <p align="justify">
 <b>Preface</b>
 <br>
-Australia is the only country on Eart with billions of different sort of visas and there is not way to get any concrete consultance from the Embassy which one to apply...
+Australia is the only country on Eart with billions of different sort of visas and there is no way to get any concrete consultance from the Embassy which one to apply...
 <br><br>
 <b>Intro</b>
 <br>
