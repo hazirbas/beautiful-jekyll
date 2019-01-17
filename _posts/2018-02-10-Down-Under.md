@@ -29,7 +29,7 @@ And the big journey. Alice Springs, creeks, pits, gorges, Kings Canyon, Uluru, t
 <br><br>
 <b>Then</b>
 <br>
-Melbourne, my favorite city. It has everything I wish to have in a city. Easy access, realtively small as like Munich, but has like 1e10 times more social stuff, resturants, billions times better people and clubs, bars and and and... I wish Australia wasn't that far away to basically everyting.
+Melbourne, my favorite city. It has everything I wish to have in a city. Easy access, realtively small as like Munich, but has around 1e10 times more social stuff, resturants, billions times better people and clubs, bars and and and... I wish Australia wasn't that far away to basically everyting.
 <br><br>
 <b>Final</b>
 <br>
