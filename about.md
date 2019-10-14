@@ -5,12 +5,12 @@ published: true
 
 **Deep Visioner**
 
-Deep Learning Engineer at [Apple, Inc.](www.apple.com) Previously, a PhD student @[«TU Munich CV-AI Group»](https://vision.cs.tum.edu/){:target="_blank"} and yet another deep learner for computer vision.
+Deep Learning Engineer at [Apple Inc.](www.apple.com), previously PhD student @[«TU Munich CV-AI Group»](https://vision.cs.tum.edu/){:target="_blank"} and yet another deep earner for Computer Vision.
 
 <div style="text-align: justify">
-Long story short, I am from Ankara, Turkey. After receving my Bachelors Degree in Computer Engineering at the Yildiz Technical University in Istanbul, I did an internship at the KIT, Karlsruhe and achieved my Masters Degree in Informatics from the TU Munich in June, 2014. Right after, joined <a href="https://vision.cs.tum.edu/members/cremers">Daniel Cremers</a>' research group as a PhD candidate and submitted my thesis in Oct, 2018.
+Long story short, I am from Ankara, Turkey. After receving my Bachelors Degree in Computer Engineering at the Yildiz Technical University in Istanbul, I have visited KIT in Karlsruhe for intership. In June, 2014 I have received my Masters Degree in Informatics from the TU Munich. Right after, I joined <a href="https://vision.cs.tum.edu/members/cremers">Daniel Cremers</a>' research group as a PhD candidate and submitted my thesis in Oct'31, 2018.
 <br><br>
-I am quite interested in computer vision since my bachelor and therefore I decided to pursue my doctoral studies also in computer vision but this time involving deep learning. Considering my deep interest in both topics, I call myself a "deep visioner”.
+I am interested in Computer Vision since my bachelor and therefore I decided to pursue my doctoral studies also in computer vision but this time involving deep learning. Considering my deep interest in both topics, I call myself a "deep visioner”.
 <br><br>
-What I like is basically deep discussions in philosophy and history -mostly ancient civilisations- with a glass of wine.
+What I really enjoy is basically deep discussions in philosophy and history -mostly ancient civilisations- with a glass of wine.
 </div>
