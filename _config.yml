@@ -27,10 +27,10 @@ navbar-links:
   Publications: "publications"
   Academia: "academia"
   Projects:
-   - ddff: "https://hazirbas.github.io/projects/ddff/"
-   - fusenet: "https://hazirbas.github.io/projects/fusenet/"
-   - tum-lsi: "https://hazirbas.github.io/datasets/tum-lsi/"
-   - ddff12scene: "https://hazirbas.github.io/datasets/ddff12scene/"
+   - ddff: "projects/ddff/"
+   - fusenet: "projects/fusenet/"
+   - tum-lsi: "datasets/tum-lsi/"
+   - ddff12scene: "datasets/ddff12scene/"
   Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
