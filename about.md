@@ -5,8 +5,7 @@ published: true
 
 **Deep Visioner**
 
-Senior Research Scientist at [Facebook AI](https://ai.facebook.com), previously Senior Deep Learning Engineer at [Apple](https://www.apple.com).
-
+Senior Research Scientist at [Facebook AI](https://ai.facebook.com), previously Senior Deep Learning Engineer at [Apple](https://www.apple.com).  
 Ph.D. grad from the @[«TU Munich CV-AI Group»](https://vision.cs.tum.edu/) and yet another Deep Learner for Computer Vision.
 
 <div style="text-align: justify">
