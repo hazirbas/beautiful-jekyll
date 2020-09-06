@@ -4,11 +4,11 @@ title: DDFF 12-Scene
 subtitle: 4.5D Lightfield-Depth Benchmark
 show-avatar: false
 social-share: true
-share-img: https://hazirbas.github.io/img/ddff12scene.png
+share-img: https://hazirbas.github.io/assets/img/ddff12scene.png
 published: true
 ---
 
-![DDFF12Scene]({{site.baseurl}}/img/ddff12scene.png){: .center-image }
+![DDFF12Scene]({{site.baseurl}}/assets/img/ddff12scene.png){: .center-image }
 <div style="text-align: center">
 <a href="https://competitions.codalab.org/competitions/17807" target="_blank">
 <button class="button buttonpaper"> >> Depth From Focus Competition on the DDFF 12-Scene Dataset << </button>

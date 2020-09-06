@@ -4,11 +4,11 @@ title: Deep Depth From Focus
 subtitle: C. Hazirbas, S. G. Soyer, M. C. Staab, L. Leal-Taixé, D. Cremers
 show-avatar: false
 social-share: true
-share-img: https://hazirbas.github.io/img/ddffteaser.png
+share-img: https://hazirbas.github.io/assets/img/ddffteaser.png
 published: true
 ---
 
-![DDFFNet]({{site.baseurl}}/img/ddffnet.png){: .center-image }
+![DDFFNet]({{site.baseurl}}/assets/img/ddffnet.png){: .center-image }
 <br>
 
 <div style="text-align: justify">
