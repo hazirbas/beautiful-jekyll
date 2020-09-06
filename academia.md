@@ -4,7 +4,7 @@ title:
 subtitle: my academic activities
 published: true
 ---
-<p></p>
+
 ### Attended Conferences ###
 
 **ICCV'17** Image-based localization using LSTMs for structured feature correlation<br />
