@@ -21,7 +21,7 @@ navbar-links:
    - ddff: "projects/ddff/"
    - fusenet: "projects/fusenet/"
    - tum-lsi: "datasets/tum-lsi/"
-   - ddff12scene: "datasets/ddff12scene/"
+   - ddff 12-scene: "datasets/ddff12scene/"
   Blog: "blog"
 
 # --- Logo --- #
