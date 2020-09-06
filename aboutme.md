@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+published: true
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Deep Visioner**
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Senior Research Scientist at [Facebook AI](https://ai.facebook.com), previously Senior Deep Learning Engineer at [Apple](https://www.apple.com).  
+Ph.D. grad from the @[«TU Munich CV-AI Group»](https://vision.cs.tum.edu/) and yet another Deep Learner for Computer Vision.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<div style="text-align: justify">
+from Ankara.<br><br>
+bachelor in CE  @YTU in Istanbul.<br><br>
+intern @KIT in Karlsruhe.<br><br>
+masters in CS @TU Munich.<br><br>
+phd @<a href="https://vision.cs.tum.edu/members/cremers">Daniel Cremers</a>' research group.<br><br>
+finally...<br><br>
+a "deep visioner”.
+</div>
