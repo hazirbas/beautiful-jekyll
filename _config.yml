@@ -15,7 +15,7 @@ author: Caner Hazirbas
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "publications"
+  Publications: "https://scholar.google.com/citations?user=JEiXKpcAAAAJ&hl=en"
   Academia: "academia"
   Projects:
    - ddff: "projects/ddff/"
